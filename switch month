@@ -1,0 +1,41 @@
+#include<stdio.h>
+
+int main(){
+
+  int month = 4;
+
+  switch (month )
+  {
+  case 1: printf("january");
+         break;
+
+   case 2: printf("february");
+           break;
+
+    case 3: printf("march");
+         break;
+    case 4: printf("april");
+         break;   
+    case 5: printf("april");
+         break;  
+   case 6: printf("april");
+         break;  
+   case 7: printf("april");
+         break;  
+   case 8: printf("april");
+         break;  
+   case 9: printf("april");
+         break;  
+  case 10: printf("april");
+         break;  
+  case 11: printf("april");
+         break;  
+  case 12: printf("april");
+         break;             
+  
+  
+  }
+
+  return 0 ;
+  
+}
