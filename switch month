@@ -16,21 +16,21 @@ int main(){
          break;
     case 4: printf("april");
          break;   
-    case 5: printf("april");
+    case 5: printf("may");
          break;  
-   case 6: printf("april");
+   case 6: printf("june");
          break;  
-   case 7: printf("april");
+   case 7: printf("july");
          break;  
-   case 8: printf("april");
+   case 8: printf("august");
          break;  
-   case 9: printf("april");
+   case 9: printf("september");
          break;  
-  case 10: printf("april");
+  case 10: printf("october");
          break;  
-  case 11: printf("april");
+  case 11: printf("november");
          break;  
-  case 12: printf("april");
+  case 12: printf("december");
          break;             
   
   
